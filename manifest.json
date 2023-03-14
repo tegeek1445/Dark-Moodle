@@ -12,7 +12,7 @@
     "content_scripts": [
         {
             "css": ["./style.css"],
-            "matches": ["https://moodle.univ-ubs.fr/*", "https://cas.univ-ubs.fr/*"]
+            "matches": ["https://cms.bits-hyderabad.ac.in/*"]
         }
     ]
 }
